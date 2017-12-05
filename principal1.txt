@@ -6,7 +6,7 @@ Caracteristica g1
 Caracteriticas nuevas:
 Caracteristica n1
 Caracteristica n2
-
+Caracteristica n3
 
 
 

@@ -6,7 +6,7 @@ Caracteristica g2
 Caracteriticas nuevas:
 Caracteristica n2
 Caracteristica n3
-
+Caracteristica n4
 
 Correccion de errores:
 Correccion 2
