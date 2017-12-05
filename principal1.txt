@@ -12,3 +12,4 @@ Caracteristica n1
 
 Correccion de errores:
 Correccion 1
+Correccion 2
